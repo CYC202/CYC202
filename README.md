@@ -9,6 +9,6 @@
 - 📖 Mainly includes web scraping and text analysis using Python.
 - 🔒 Code is encrypted with strong passwords and is not open source.
 
-> ***💬 Feel free to contact the author if you have any requests 😊***
+> 💬 *** Feel free to contact me if you have any requests*** 😊
 
 ⭐️ From [Yucheng CHEN](https://github.com/CYC202)
